@@ -104,7 +104,7 @@ prestamos   (id, id_estudiante, id_libro, fecha_prestamo, fecha_devolucion, devu
 
 1. **Clonar** el repositorio:
    ```bash
-   git clone [URL-de-tu-repositorio]
+   https://github.com/pablo-psr/EFT.git
    ```
 2. **Crear la base de datos** en MySQL: crear una base llamada `biblioteca` y ejecutar los dos scripts de la carpeta `sql/`, en el orden indicado arriba.
 3. **Abrir el proyecto** en IntelliJ IDEA.
